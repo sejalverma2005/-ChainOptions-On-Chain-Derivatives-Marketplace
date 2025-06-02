@@ -23,7 +23,7 @@ To build a fully transparent and composable on-chain options protocol that mirro
 - UI dashboard for visualizing open interest and exercising options
 
 ## Contract Details
-
 project done by Sejal Verma 
+
 0xC4FfBdA929B2516547eFB569bDc59c2994a36F62
 ![alt text](image.png)
