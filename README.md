@@ -22,7 +22,7 @@ To build a fully transparent and composable on-chain options protocol that mirro
 - Integration with Chainlink oracles for automated price-based settlements
 - UI dashboard for visualizing open interest and exercising options
 
-## Contract Details
+## Contract Details 
 project done by Sejal Verma  
 
 0xC4FfBdA929B2516547eFB569bDc59c2994a36F62
