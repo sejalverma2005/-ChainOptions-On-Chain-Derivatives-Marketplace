@@ -8,7 +8,7 @@ ChainOptions is a decentralized platform for creating, trading, and settling opt
 
 To build a fully transparent and composable on-chain options protocol that mirrors traditional financial derivatives while preserving the decentralization ethos of Web3.
 
-## Key Features
+##  Key Features
 
 - Creation of call and put options with customizable parameters
 - Trustless P2P option contract selling and exercising
