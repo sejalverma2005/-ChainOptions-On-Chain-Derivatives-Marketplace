@@ -1,6 +1,6 @@
   # Project Title: ChainOptions: On-Chain Derivatives Marketplace
 
-## Project Description 
+##  Project Description 
 
 ChainOptions is a decentralized platform for creating, trading, and settling options contracts directly on the blockchain. It allows DeFi users to hedge risk or speculate on asset price movements using call and put options — all without intermediaries.
 
